@@ -1,2 +1,7 @@
-# PORTOFOLIO-assets
-CDN Assets Repository for ekasyarif.my.id - Project previews, media uploads, skill logos served via jsDelivr CDN
+# PORTOFOLIO Assets & Media Storage CDN
+
+Dedicated assets repository for Eka Syarif Maulana Portfolio website.
+
+- **Owner**: ekasyarifmaulana10-crypto
+- **CDN Provider**: jsDelivr (https://cdn.jsdelivr.net/gh/ekasyarifmaulana10-crypto/PORTOFOLIO-assets@main/public/)
+- **Main Website**: https://ekasyarif.my.id
